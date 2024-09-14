@@ -1,7 +1,7 @@
 # NFC Attendance Management System (NFCAMS)
 
 ## Description
-NFC Attendance Management System is a comprehensive solution developed by Keshav Umesh(keshavumesh001@gmail.com) for automating attendance tracking in educational institutions. The system leverages NFC (Near Field Communication) technology to streamline the process of marking student attendance. It includes a server-side component for data management and a client-side web interface for teachers to interact with.
+NFC Attendance Management System is a comprehensive developed by Keshav Umesh(keshavumesh001@gmail.com) for automating attendance tracking in educational institutions. The system leverages NFC (Near Field Communication) technology to streamline the process of marking student attendance. It includes a server-side component for data management and a client-side web interface for teachers to interact with.
 
 ## Key Features
 - **NFC Tag Integration**: Teachers can use NFC tags to quickly mark student attendance by tapping the tags.
