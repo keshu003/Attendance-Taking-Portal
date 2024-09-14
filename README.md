@@ -11,7 +11,7 @@ NFC Attendance Management System is a comprehensive solution developed by Keshav
 - **Database Integration**: Utilizes MongoDB for storing attendance records and class information securely.
 - **User-Friendly Interface**: The web interface offers an intuitive design for easy navigation and interaction.
 
-## Developers
+## Developer
 - **Keshav Umesh**
 
 ## Files
